@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Free-Freelancer/1.0.0": {
+        "runtime": {
+          "Free-Freelancer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Free-Freelancer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

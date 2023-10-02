@@ -1,0 +1,15 @@
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/bin/Debug/net7.0/Free-Freelancer
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/bin/Debug/net7.0/Free-Freelancer.deps.json
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/bin/Debug/net7.0/Free-Freelancer.runtimeconfig.json
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/bin/Debug/net7.0/Free-Freelancer.dll
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/bin/Debug/net7.0/Free-Freelancer.pdb
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/Free-Freelancer.csproj.AssemblyReference.cache
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/Free-Freelancer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/Free-Freelancer.AssemblyInfoInputs.cache
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/Free-Freelancer.AssemblyInfo.cs
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/Free-Freelancer.csproj.CoreCompileInputs.cache
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/Free-Freelancer.dll
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/refint/Free-Freelancer.dll
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/Free-Freelancer.pdb
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/Free-Freelancer.genruntimeconfig.cache
+/Users/ervasude/Projects/pazartesi/Free-Freelancer/obj/Debug/net7.0/ref/Free-Freelancer.dll
